@@ -1,0 +1,12 @@
+# Xcode project files to keep
+!*.xcodeproj
+!*.xcworkspace
+
+# Ignore user-specific and build artifacts
+xcuserdata/
+*.xcuserstate
+build/
+DerivedData/
+*.ipa
+*.app
+*.dSYM
